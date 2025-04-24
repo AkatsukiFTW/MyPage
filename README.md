@@ -8,4 +8,4 @@ This is my personal portfolio website, created using React, where I showcase my 
 <br> <br>
 Feel free to explore my portfolio on your PC for the best experience, and connect with me for potential opportunities or collaborations!
 
-
+<br> <a href="https://akatsukiftw.github.io/MyPage/">Click Here 👻</a>

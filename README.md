@@ -6,6 +6,6 @@ This is my personal portfolio website, created using React, where I showcase my 
 <li>CSS</li>
 <li>Vite</li>
 
-<h1>Feel free to explore my portfolio on your PC for the best experience, and connect with me for potential opportunities or collaborations!</h1>
+Feel free to explore my portfolio on your PC for the best experience, and connect with me for potential opportunities or collaborations!
 
 
